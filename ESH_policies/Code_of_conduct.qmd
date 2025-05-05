@@ -17,7 +17,7 @@ Described herein, the Evidence Synthesis Hackathon (ESH) refers to an event seri
 The ESMARConf (Evidence Synthesis and Meta-Analysis in R Conference) is the ESH's flagship annual online conference.
 Participation in both ESH and ESMARConf are always free and do not require any form of payment, though attendance at individual events may be limited to a specified number of Participants by the Organisers.
 Participants at ESH events are expected to contribute in a meaningful way to group activities.
-The Organisers of ESH are currently (as of 2025) Neal Haddaway, Matthew Grainger, Fiona Campbell and Matt Lloyd and the organisers of ESMARConf (as of 2025) are Neal Haddaway, Matthew Grainger, Ryan Field and Rafael José Vieira.
+The Organisers of ESH are currently (as of 2025) Neal Haddaway, Matthew Grainger, Fiona Campbell and Matt Lloyd and the organisers of ESMARConf (as of 2025) are Neal Haddaway, Matthew Grainger, Ryan Field and Rafael Jose Vieira.
 
 ## Aims and objectives of the Policy
 
