@@ -26,7 +26,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          install.packages("yaml", "rmarkdown")
+          install.packages(c("yaml", "rmarkdown"))
         shell: Rscript {0}
 
       - name: Render README.qmd
