@@ -1,0 +1,47 @@
+---
+title: "README"
+format: gfm
+editor: visual
+---
+
+# Welcome to ESHackathon
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| 
+# Load necessary libraries
+library(yaml)
+
+# Function to safely extract version info from a .qmd file
+read_version_from_qmd <- function(file_path) {
+  # Read the full file
+  full_content <- readLines(file_path)
+  
+  # Find where the YAML block starts and ends
+  yaml_start <- grep("^---", full_content)[1]  # First "---" (start)
+  yaml_end <- grep("^---", full_content)[2]    # Second "---" (end)
+  
+  # Extract the YAML block content
+  yaml_content <- paste(full_content[(yaml_start + 1):(yaml_end - 1)], collapse = "\n")
+  
+  # Parse the YAML content
+  parsed_yaml <- yaml.load(yaml_content)
+  
+  # Return the version field
+  return(parsed_yaml$version)
+}
+
+# Example usage to get version of Publication Policy
+#list.files("ESH_policies/",pattern = ".qmd")
+version_code_of_conduct <- read_version_from_qmd("ESH_policies/Code_of_conduct.qmd")
+version_publication_policy <- read_version_from_qmd("ESH_policies/ESH_Publications_Policy.qmd")
+
+#cat(paste0("Code of Conduct: Version ", version_code_of_conduct, "\n"))
+#cat(paste0("Publication Policy: Version ", version_publication_policy, "\n"))
+```
+
+-   [Code of Conduct:](https://www.eshackathon.org/policies/ESH_policies/Code_of_conduct.html) `r paste0("Version: ", version_code_of_conduct, "\n")`
+
+-   [Publication Policy:](https://www.eshackathon.org/policies/ESH_policies/ESH_Publications_Policy.html) `r paste0("Version: ", version_publication_policy, "\n")`

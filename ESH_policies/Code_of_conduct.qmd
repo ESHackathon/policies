@@ -69,3 +69,13 @@ The ESH and ESMARConf organisers will support people who feel they have been har
 ## This document
 
 All participants of the ESH and ESMARConf will be notified of the existence of this Accessibility Policy and Code of Conduct, and informed that they are obligated to comply with its requirements and promote fairness whilst acting as participants of the conference.
+
+::: footer
+```{r}
+#| echo: false
+#| message: false 
+#| warning: false 
+
+cat(paste0('Last updated: ', Sys.Date()))
+```
+:::
