@@ -21,7 +21,7 @@ Participation in both ESH and ESMARConf are always free and do not require any f
 Participants at ESH events are expected to contribute in a meaningful way to group activities.
 The Organisers of ESH are currently (as of 2025) Neal Haddaway, Matthew Grainger, Fiona Campbell and Matt Lloyd and the organisers of ESMARConf (as of 2025) are Neal Haddaway, Matthew Grainger, Ryan Field and Rafael Jose Vieira.
 
-## Aims and objectives of the Policy
+### Aims and objectives of the Policy
 
 The Evidence Synthesis Hackathon (ESH) and the organisers of ESMARConf are committed to equality and ensuring an accessible workflow, and equal and fair treatment of its participants interacting during the conference.
 
@@ -32,7 +32,7 @@ The organisers of the ESH oppose all forms of unlawful and unfair discrimination
 The ESH and ESMARConf seeks to foster an accessible working environment free of discrimination and prejudice.
 All participants will be treated fairly, with respect, and will be given equal opportunity in every aspect of their work within the group.
 
-## Accessibility
+### Accessibility
 
 The organisers of the ESH and ESMARConf seek to ensure the group's activities are accessible as possible to its participants.
 To that effect, the organisers will ensure the following:
@@ -47,7 +47,7 @@ At present, we use YouTube transcription and translation services.
 Translation and signing service costs will be included and prioritised in all grant applications as far as budgets allow.
 All feedback can be provided in whatever format (verbal, written, etc.) participants feel comfortable using, and may be given anonymously via de-identified forms or anonymous email accounts.
 
-## Code of Conduct
+### Code of Conduct
 
 People will be treated with dignity and respect regardless of age, disability, gender reassignment, marriage or civil partnership, pregnancy or maternity, race, religion or belief, sex, or sexual orientation.
 At all times people's feelings will be valued and respected.
@@ -68,7 +68,7 @@ If the complaint is against the ESH or ESMARConf as a whole, the organisers must
 Any decision to exclude a person from the ESH or ESMARConf due to discriminatory or harassing behaviour will be made with reference to this Policy.
 The ESH and ESMARConf organisers will support people who feel they have been harassed or discriminated against, and will not victimise or treat them differently as a result.
 
-## This document
+### This document
 
 All participants of the ESH and ESMARConf will be notified of the existence of this Accessibility Policy and Code of Conduct, and informed that they are obligated to comply with its requirements and promote fairness whilst acting as participants of the conference.
 
