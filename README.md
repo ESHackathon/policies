@@ -1,6 +1,9 @@
 # README
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b22d16d609bcd61853e00d645c19aed9848f0da3
 # Welcome to ESHackathon
 
 Please take some time to review our policies:
