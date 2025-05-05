@@ -1,0 +1,69 @@
+/* General body styles for Reveal.js slides */
+.reveal body {
+  background-color: white;
+  color: #333333; /* Dark gray for text */
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+/* Headings for slides (Title and Section Headers) */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  color: #4FB3A9; /* Primary Teal */
+  font-weight: bold;
+}
+
+/* Links on slides */
+.reveal a {
+  color: #4FB3A9; /* Primary Teal for links */
+  text-decoration: none;
+}
+
+.reveal a:hover {
+  color: #E13F6F; /* Highlight pink on hover */
+}
+
+/* Code blocks and inline code */
+.reveal code, .reveal pre {
+  background-color: #F5F5F5; /* Light gray background for code */
+  color: #333333; /* Dark gray text for code */
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
+
+/* Blockquotes (quotations or emphasized text) */
+.reveal blockquote {
+  border-left: 4px solid #4FB3A9; /* Primary teal border for blockquote */
+  background: #F5F5F5; /* Light gray background for blockquotes */
+  padding: 0.5em 1em;
+  margin-left: 0;
+}
+
+/* Style for slide backgrounds and layout */
+.reveal .slides {
+  background-color: white; /* White background for slides */
+}
+
+.reveal .slide {
+  padding: 1em;
+  font-size: 18px;
+}
+
+/* Additional styles for bullets and lists */
+.reveal ul {
+  list-style-type: disc;
+  margin-left: 1em;
+}
+
+.reveal ol {
+  list-style-type: decimal;
+  margin-left: 1em;
+}
+
+/* Adjust text and items for small screen or mobile viewing */
+.reveal {
+  font-size: 16px; /* Adjust text size for mobile viewing */
+}
+
+.reveal .reveal .reveal-footer {
+  font-size: 12px;
+  color: #333333; /* Ensure readable footer text */
+}

@@ -5,6 +5,7 @@ date: "2025-05-05"
 version: "v0.1.0"
 format:
   html:
+    css: styles.css
     toc: true
 ---
 
