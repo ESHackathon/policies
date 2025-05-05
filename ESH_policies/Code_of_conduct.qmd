@@ -13,6 +13,8 @@ editor:
 
 ### Version: {{< meta version >}}
 
+## ESH Accessibility Policy and Code of Conduct
+
 Described herein, the Evidence Synthesis Hackathon (ESH) refers to an event series, consisting of in-person or online activities undertaken by voluntary groups of individuals (Participants).
 The ESMARConf (Evidence Synthesis and Meta-Analysis in R Conference) is the ESH's flagship annual online conference.
 Participation in both ESH and ESMARConf are always free and do not require any form of payment, though attendance at individual events may be limited to a specified number of Participants by the Organisers.
