@@ -1,0 +1,17 @@
+---
+title: "Welcome to London!"
+format: 
+  revealjs:
+    logo: images/esh_hex_final.png
+    title-slide-attributes:
+      data-background-image: images/London.jpg
+      data-background-size: contain
+      data-background-opacity: "0.8"
+    css: esh-style.css
+    theme: default
+editor: visual
+---
+
+## Welcome to ESH
+
+![](images/esh_hex_final.png)
