@@ -1,0 +1,71 @@
+---
+title: "ESH Publication Policy"
+author: "ESHackathon"
+date: "2025-05-05"
+version: "v0.1.0"
+format:
+  html:
+    toc: true
+---
+
+### Version: {{< meta version >}}
+
+## **ESH Publications Policy**
+
+### **1. Purpose**
+
+This policy outlines ESH’s approach to authorship, data sharing, and dissemination of outputs resulting from Hackathon activities. It aims to promote transparency, inclusivity, and recognition of all contributors.
+
+### **2. Core Principles**
+
+**a. Openness and Transparency**
+
+-   All outputs from ESH events (e.g. code, datasets, preprints, manuscripts) should be made openly available.
+
+-   We encourage use of open repositories (e.g. GitHub, Zenodo, OSF) and preprint servers (e.g. EcoEvoRxiv, bioRxiv).\
+
+**b. Recognition of All Contributors**
+
+-   ESH recognises the importance of inclusive authorship practices. All significant contributors—regardless of career stage—should be appropriately credited.
+
+-   We encourage the **CRediT taxonomy** to specify individual contributions.
+
+**c. Support for Early Career Researchers (ECRs)**
+
+-   ESH commits to providing ECRs with prominent authorship roles (e.g. first or co-first authorship), where appropriate.
+
+-   Mentoring and capacity-building are integral to our publication approach.
+
+**d. Collaborative Authorship**
+
+-   Projects developed during ESH events are typically co-produced by teams. Authorship should be based on contribution, not seniority.
+
+-   Disputes over authorship are to be resolved collaboratively, with reference to ICMJE and COPE authorship guidelines.
+
+**e. Encouragement of Non-traditional Outputs**
+
+-   ESH supports outputs beyond traditional journal articles, including R packages, workflows, systematic maps, blog posts, and data visualisations.
+
+### **3. Preprints and Journals**
+
+-   We encourage rapid dissemination of findings via preprints.
+
+-   When preparing manuscripts, we prefer submission to open access journals and those that support transparent peer review and reproducible research.
+
+### **4. Data, Code, and Materials Sharing**
+
+-   All outputs should, wherever possible, comply with FAIR principles: **Findable, Accessible, Interoperable, Reusable**.
+
+-   Code should be open-source (e.g. GPL license) and hosted on collaborative platforms (e.g. GitHub).
+
+-   Data should be documented clearly and, if ethically appropriate, made publicly available.\
+
+### **5. Acknowledgement of ESH and Hackathon Support**
+
+-   All publications and outputs should acknowledge ESH and the specific Hackathon in which the work was developed.
+
+-   Example: “This work was initiated during the \[Year\] Evidence Synthesis Hackathon (ESH), supported by \[partners/funders\].”\
+
+### **6. Authorship Disputes**
+
+-   In case of disputes, a neutral committee of ESH advisors may be consulted.
