@@ -42,6 +42,6 @@ version_publication_policy <- read_version_from_qmd("ESH_policies/ESH_Publicatio
 #cat(paste0("Publication Policy: Version ", version_publication_policy, "\n"))
 ```
 
--   [Code of Conduct:](https://www.eshackathon.org/policies/ESH_policies/Code_of_conduct.html) `r paste0("Version: ", version_code_of_conduct, "\n")`
+- [Code of Conduct:](https://eshackathon.github.io/policies/ESH_policies/Code_of_conduct.html) `r paste0("Version: ", version_code_of_conduct, "\n")`
 
--   [Publication Policy:](https://www.eshackathon.org/policies/ESH_policies/ESH_Publications_Policy.html) `r paste0("Version: ", version_publication_policy, "\n")`
+- [Publication Policy:](https://eshackathon.github.io/policies/ESH_policies/ESH_Publications_Policy.html) `r paste0("Version: ", version_publication_policy, "\n")`
