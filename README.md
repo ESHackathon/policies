@@ -1,6 +1,5 @@
 # Welcome to ESHackathon
 
-
 Please take some time to review our policies:
 
 - [Code of
